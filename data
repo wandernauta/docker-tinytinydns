@@ -1,0 +1,7 @@
+# Example data file.
+
+.example.org:1.2.3.4:a:259200
+=a.example.org:1.2.3.4:86400
+=b.example.org:1.2.3.5:86400
+=c.example.org:1.2.3.6:86400
++www.example.org:1.2.3.4:86400
